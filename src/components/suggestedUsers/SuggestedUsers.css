@@ -1,0 +1,10 @@
+.card {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    left: 65%;
+    top: 25%;
+    width: 30%;
+    min-width: 275px;
+    background: burlywood !important;
+}

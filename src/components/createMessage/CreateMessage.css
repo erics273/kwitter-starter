@@ -1,0 +1,23 @@
+.createMessage {
+    margin-left: 3%;
+}
+
+h2 {
+    color: black;
+}
+
+.postButton {
+    margin-left: 2%;
+}
+
+.MuiFormControl-root {
+    width: 25%;
+}
+
+.MuiFilledInput-underline:after {
+    border-bottom: 2px solid saddlebrown !important;
+}
+
+.MuiFormLabel-root {
+    color: saddlebrown !important;
+}
